@@ -15,5 +15,23 @@ Individual submission1: Unix Tools for Crude Tokenization and Normalization
 Link to unlisted youtube video:
 https://youtu.be/06CrUaDlaTQ
 
-Submitter:
+
+
+Name, Author, Edition, year and publisher of the Book:
+Speech and Language Processing
+Jurafsky
+3rd edition
+2014
+Pearson
+
+Link to the book:
+https://web.stanford.edu/~jurafsky/slp3/
+
+Link to the book chapter:
+https://web.stanford.edu/~jurafsky/slp3/2.pdf
+
+Group Number:
+26
+
+Group Members:
 20166062 MD. Galib Ahsan
