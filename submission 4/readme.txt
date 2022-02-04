@@ -12,13 +12,13 @@ Paper presentation:
 https://www.overleaf.com/project/61d371391e060833f6bb234a
 
 Paper submission date (to workshop/conference):
-
+04-02-2022
 
 Paper submission ID: (received) from conference/workshop
-
+301
 
 Conference URL:
-
+https://proconf.org/conferences/miet-2022/
 
 Group Number:
 26
