@@ -3,11 +3,11 @@ Unlisted youtube video:
 https://youtu.be/oGzj37Ml_z0
 
 Conference / Paper submission login URL:
-
+https://proconf.org/conferences/miet-2022/ 
 
 Paper title:
 Bangla /Q?NLP/g :NISQ era,Wittgenstein, and diagramatic approach (might change)
-https://www.overleaf.com/read/zbkyhnqvvsvp(readonly link)(incomplete, writting)
+https://www.overleaf.com/read/zbkyhnqvvsvp(readonly link)
 Paper presentation:
 https://www.overleaf.com/project/61d371391e060833f6bb234a
 
