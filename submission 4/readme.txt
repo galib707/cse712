@@ -6,8 +6,8 @@ Conference / Paper submission login URL:
 https://proconf.org/conferences/miet-2022/ 
 
 Paper title:
-Bangla /Q?NLP/g :NISQ era,Wittgenstein, and diagramatic approach (might change)
-https://www.overleaf.com/read/zbkyhnqvvsvp(readonly link)
+Bangla NLP :NISQ era,Wittgenstein, and diagramatic approach 
+https://www.overleaf.com/read/gvcrqjnrrdcy(readonly link)
 Paper presentation:
 https://www.overleaf.com/project/61d371391e060833f6bb234a
 
